@@ -7,11 +7,12 @@ Made the frame of the engraver in Fusion. Was going to continue to design but I 
     - 2020 Aluminum extrusions x 600mm x 4
     - 20mm connectors 
     - MGN12 Linear Rail x 550mm x 2 
+![image](https://github.com/user-attachments/assets/1dbcf4ca-e226-4b9c-b5a2-e3901bdb2e69)
+![image](https://github.com/user-attachments/assets/eed6efab-13df-4833-9370-6ba1d91b9f15)
+
 - Designed the feet for the printer
-  
-![image](https://github.com/user-attachments/assets/1dbcf4ca-e226-4b9c-b5a2-e3901bdb2e69| width=100)
-![image](https://github.com/user-attachments/assets/eed6efab-13df-4833-9370-6ba1d91b9f15){:width="400px"}
-![image](https://github.com/user-attachments/assets/ba621891-1986-4aa2-a194-1a0dc5b51c6b){:width="400px"}
+  - Wanted to make it adjustable but it would be undone by the shaking of the laser engraver
+![image](https://github.com/user-attachments/assets/ba621891-1986-4aa2-a194-1a0dc5b51c6b)
 
 
 ## Issues 
