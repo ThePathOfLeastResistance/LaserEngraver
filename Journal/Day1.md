@@ -1,4 +1,4 @@
-# June 12th: Got the Basic Frame
+# June 13th: Got the Basic Frame
 
 Made the frame of the engraver in Fusion. Was going to continue to design but I remember a vid from Stuff Made Here, where he talked about a different system for the belt that was better. 
 
