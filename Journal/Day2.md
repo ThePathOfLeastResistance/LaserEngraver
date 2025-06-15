@@ -1,4 +1,4 @@
-# June 13th: Made most of the componenets 
+# June 14th: Made most of the componenets 
 
 Made the Idle pulley holder, and the stepper motor mount, should be finished the 3d designing by tomorrow.
 
