@@ -1,4 +1,4 @@
-# June 15th: ALMOST FINSIHED  
+# June 16th: ALMOST FINSIHED  
 
 made the connectors for the linear rails to the idle GT2 pulley, and also the changed the brackets to line up with the GT2 belts.
 
