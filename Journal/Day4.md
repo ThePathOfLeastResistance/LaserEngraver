@@ -1,4 +1,4 @@
-# June 15th: ALMOST FINSIHED  
+# June 16th: ALMOST FINSIHED  
 
 Had to redesign the right connector and also made the left side connector from the linear block to the 2020 aluminum extrusion. 
  
