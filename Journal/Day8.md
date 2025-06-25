@@ -15,9 +15,12 @@ Since the bracket for connecting the linear rail blocks to the 2020 aluminum ext
 
 
 ## Issues 
-
+- While moving with the linear rails, for some reason the screw ploit holes were changes and the linear rail's center caved in, had to delete it and redesign it.
+  
 ## Major Imporvments 
-
+- Sometimes, when I copied and pasted a component and move the new compoents with like align, it would also effect the other component. After a while, I found out that I had to use paste as new instead of just paste, that way they are not inter connected.
+- Also sometime when I delete parts, they would affect the timeline and hence mess up some of the other parts, turns out, I just had to use the remove command instead of delete.
+  
 ## Next time
   
 ## Acknowledgements
