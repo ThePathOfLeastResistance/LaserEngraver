@@ -33,4 +33,6 @@ Made the frame of the engraver in Fusion. Was going to continue to design but I 
  - [Great explaination for CoreXY](https://www.youtube.com/watch?v=8WLZ8OesMF4)
  
 ## Additional Notes
-- Looking at the video from Stuff Made Here channel, I really wanted to switch it to a CoreXY than the original cartesian system. Since I planned on making something that I wanted to use in the future, might as well spend more time to make a better version now. Also I thought it would be really cool to see and try to understand the CoreXY system since a lot of laser engravers and 3d printers used them. However while researching, there was not a lot of information about it and I kinda gave up for the day. 
+- Looking at the video from Stuff Made Here channel, I really wanted to switch it to a CoreXY than the original cartesian system. Since I planned on making something that I wanted to use in the future, might as well spend more time to make a better version now. Also I thought it would be really cool to see and try to understand the CoreXY system since a lot of laser engravers and 3d printers used them. However while researching, there was not a lot of information about it and I kinda gave up for the day.
+
+Time Spent: 4 Hours :(
