@@ -28,4 +28,4 @@ Had to redesign the right connector and also made the left side connector from t
 ## Acknowledgements
 
 
-Hours spent:  1 hours
+Hours spent:  3 hours
